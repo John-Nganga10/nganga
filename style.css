@@ -1,0 +1,44 @@
+.heading1{
+    color: #ef0c0c;
+}
+.heading2{
+    font-style: italic;
+}
+#myheading{
+    font-size: 40px;
+}
+.eMobilis{
+    background-color: aqua;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: brown;
+}
+.mytest{
+    display: flex;
+    background-color: beige;
+    padding: 20px;
+}
+.paragraph{
+    margin-left: 30px;
+}
+.image{
+    padding: 30px;
+}
+.main{
+    display: flex;
+}
+.paragraph3{
+    background-color: cadetblue;
+    padding: 20px;
+}
+.paragraph2{
+    background-color: chocolate;
+    padding: 20px;
+}
+.paragraph4{
+    background-color: antiquewhite;
+    padding: 20px;
+}
